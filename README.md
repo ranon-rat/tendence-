@@ -1,4 +1,5 @@
 # tendence-
+this is my first project with golang, is shit 
 the first version i make it with javascript but javascript for calculus is shit and 
 now are make it with golang
 
